@@ -1,0 +1,11 @@
+c Autor: Mikel Dalmau
+c Grafo no dirigido
+c Formato del fichero: En la línea 6 dos enteros positivo N y A indicando cantidad de Nodos y Aristas
+c                      Seguido A líneas con tres enteros positivos definiendo cada arista del grafo y su peso 
+c      
+4 5
+0 1 8
+0 2 5
+1 3 4
+1 2 3
+2 3 1   

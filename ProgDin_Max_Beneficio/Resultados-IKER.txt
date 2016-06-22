@@ -1,0 +1,31 @@
+20productos500.txt:
+
+101 productos del 9
+149 productos del 15
+
+
+
+5productos50.txt:
+
+2 productos del 3
+7 productos del 4
+
+
+
+10productos100.txt:
+
+8 productos del 6
+6 productos del 7
+7 productos del 9
+4 productos del 10
+
+
+
+7productos200.txt:
+
+2 productos del 1
+2 productos del 2
+1 productos del 3
+4 productos del 4
+4 productos del 5
+3 productos del 6
